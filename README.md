@@ -2,6 +2,8 @@
 
 This Python script scrapes the ISRO website (https://www.isro.gov.in) and extracts links inside div elements with the class 'accordion-body'. The extracted data is saved in a CSV file with a unique filename, including the current date and time.
 
+This is done out of love for the rich content that is uploaded on the site of ISRO.
+Made with 💝💖 & admiration of ISRO and the work they do. 
 ## Requirements
 
 - Python 3.x
